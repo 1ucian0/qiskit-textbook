@@ -1,0 +1,7 @@
+.venv
+*.html
+.DS_Store
+build
+_repo
+_build
+__pycache__
