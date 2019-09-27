@@ -5,3 +5,4 @@ build
 _repo
 _build
 __pycache__
+.idea/
