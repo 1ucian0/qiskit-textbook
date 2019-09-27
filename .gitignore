@@ -6,3 +6,4 @@ _repo
 _build
 __pycache__
 .idea/
+/index.ipynb

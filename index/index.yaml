@@ -1,0 +1,44 @@
+Index: !!omap
+  - ch0: Chapter 0. Introduction and Prerequisites
+  - ch1: Chapter 1. Quantum States and Qubits
+  - ch2: Chapter 2. Single-Qubit and Multi-Qubit Gates
+
+ch0:
+  - 0.0 [Hello World!](./ch-preface/0.html)
+  - 0.1 [Python and Jupyter Notebooks!]()
+  - 0.2 [Qiskit]()
+
+ch1:
+  - 1.0 Introduction
+  - 1.1 The Atoms of Computation
+  - 1.2 The Unique Properties of Qubits
+  - 1.3 Writing Down Qubit States
+  - 1.4 Pauli Matrices and the Bloch Sphere
+  - 1.5 States for Many Qubits
+
+ch2:
+  - 2.0 Introduction
+  - 2.1 Quantum Gates
+  - 2.2 Fun with Matrices
+  - 2.3 The Standard Gate Set
+  - 2.4 Proving Universality
+  - 2.5 Basic Circuit Identities
+
+Contributors:
+  - Asfaw: Abraham
+  - Ben-Haim: Yael
+  - Bravyi: Sergey
+  - Capelluto: Lauren
+  - Carrera Vazquez: Almudena
+  - Gambetta: Jay
+  - Garion: Shelly
+  - Gil: Leron
+  - McKay: David
+  - Minev: Zlatko
+  - Nation: Paul
+  - Phan: Anna
+  - Rattew: Arthur
+  - Shabani: Javad
+  - Smolin: John
+  - Temme: Kristan
+  - Wootton: James
